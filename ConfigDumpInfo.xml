@@ -4,7 +4,7 @@
 		<Metadata name="Configuration.ОсновноеРасширение" id="768d2f38-d752-4a90-a5a5-3509f4a215af" configVersion="84ec0f8869840976b0eb244a052eeff8ee893992"/>
 		<Metadata name="DataProcessor.ОР_ОбработкаДляКоманднойРаботы" id="b4a12013-c6ae-44e5-ae5a-98b77ca5fd75" configVersion="998361fa3d66e94c0b8f10a06faf4e30dfb2336f"/>
 		<Metadata name="DataProcessor.ОР_ОбработкаДляКоманднойРаботы.Form.Форма" id="2b84f587-9a2a-43a6-b931-ab260111f67c" configVersion="39c164e523249eff0dfbd191b080b8e71423c157"/>
-		<Metadata name="DataProcessor.ОР_ОбработкаДляКоманднойРаботы.Form.Форма.Form" id="2b84f587-9a2a-43a6-b931-ab260111f67c.0" configVersion="3b535a988e203b290a1f8f0f2cf71536be5582d3"/>
+		<Metadata name="DataProcessor.ОР_ОбработкаДляКоманднойРаботы.Form.Форма.Form" id="2b84f587-9a2a-43a6-b931-ab260111f67c.0" configVersion="03ffb07f86fae2ed94c17be8e659e1dc3ee9e6dd"/>
 		<Metadata name="Language.Русский" id="ebea28eb-2a47-4363-ac6d-d66d76118b3b" configVersion="81f986862c8ef18a8075163fd5de64c835be8e7f"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
