@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="CommonModule.ПраваПользователяПовтИсп" id="76b424fa-1646-4b63-8c16-430d434b9dbd" configVersion="b1aa41118a64d4cf79eed60fdde894737f3f5adf"/>
+		<Metadata name="CommonModule.РеализацияТоваровУслугЛокализация" id="d296fe32-47c2-4eb8-97e8-62e8a532458e" configVersion="b8ab01640215ebb66731b0b47ad08cc89c8da683"/>
+		<Metadata name="CommonModule.УправлениеПечатью" id="40a61d10-06b1-45cb-9a6c-5e95172f8e84" configVersion="289de3d1ca93abae67474a68134251301a28c2b2"/>
+		<Metadata name="Configuration.ПФРеализацияТоваровИУслуг" id="55ceec9e-1884-47ed-962b-33e0a7bd184b" configVersion="38b42cced02d75495e22674dc3d650939cff97ab"/>
+		<Metadata name="Document.РеализацияТоваровУслуг" id="019708f8-e80f-4fae-bd3b-40f25de46205" configVersion="bd30f99d6e694957bd82a5f65e7424fc15e1f69a"/>
+		<Metadata name="Document.РеализацияТоваровУслуг.ManagerModule" id="019708f8-e80f-4fae-bd3b-40f25de46205.2" configVersion="8977d801c8dda5ef861bbd630ca3b3b2597f8edf"/>
+		<Metadata name="Document.РеализацияТоваровУслуг.Template.ПФ_MXL_РеализацияТоваровНекрасоваЕВ" id="0e4e9458-ebc9-498d-a07c-cd69c3ebc1fa" configVersion="9e9cf381f818083ad64eb9f75b9b73ef5e8b0b10"/>
+		<Metadata name="Document.РеализацияТоваровУслуг.Template.ПФ_MXL_РеализацияТоваровНекрасоваЕВ.Template" id="0e4e9458-ebc9-498d-a07c-cd69c3ebc1fa.0" configVersion="11ce320241ab464e3e90360f488bef89e11a1255"/>
+		<Metadata name="Enum.ТипыНалогообложенияНДС" id="3fec75c1-5593-4b26-a28c-275d2dfcc05c" configVersion="44a6346c7a82d93671c69f620fc690d06b806c01"/>
+		<Metadata name="Language.Русский" id="e0b4e30b-eb7c-47e9-a674-2f231b23c8f9" configVersion="c25e45ced9d3083f250d16c36e3d723f2b263bfc"/>
+		<Metadata name="Role.Расш1_ОсновнаяРоль" id="ba8b1787-60f4-425f-8933-bd11b1a0ac54" configVersion="9f02aec01f82f93af30c6fb37b524795301e1d60"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
