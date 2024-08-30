@@ -1,10 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
 	<ConfigVersions>
-		<Metadata name="Configuration.ОсновноеРасширение" id="768d2f38-d752-4a90-a5a5-3509f4a215af" configVersion="47abdd40e92125a22949abb246bbedbd7bf4c6fa"/>
-		<Metadata name="DataProcessor.ОР_ОбработкаДляКоманднойРаботы" id="b4a12013-c6ae-44e5-ae5a-98b77ca5fd75" configVersion="31f8536ad2e935d29744ed18a4bb279dac86a532"/>
-		<Metadata name="DataProcessor.ОР_ОбработкаДляКоманднойРаботы.Form.Форма" id="2b84f587-9a2a-43a6-b931-ab260111f67c" configVersion="39c164e523249eff0dfbd191b080b8e71423c157"/>
-		<Metadata name="DataProcessor.ОР_ОбработкаДляКоманднойРаботы.Form.Форма.Form" id="2b84f587-9a2a-43a6-b931-ab260111f67c.0" configVersion="48d5b38da50fdc4cf23933625f224ccbc11dd3ce"/>
-		<Metadata name="Language.Русский" id="ebea28eb-2a47-4363-ac6d-d66d76118b3b" configVersion="81f986862c8ef18a8075163fd5de64c835be8e7f"/>
+		<Metadata name="Configuration.РеализацияТоваровИУслуг" id="a7c97ac8-3cb4-4a50-8e4b-cfd406be0800" configVersion="dbb96e5a0b577df9b79b3fced2144ad0ae19c507"/>
+		<Metadata name="Document.РеализацияТоваровУслуг" id="361cc0f0-ed7a-4b6e-8d0d-132a5d1d6aaa" configVersion="763e5d5490dc7d802b0041362cc1fed4aa26d56f"/>
+		<Metadata name="Document.РеализацияТоваровУслуг.ManagerModule" id="361cc0f0-ed7a-4b6e-8d0d-132a5d1d6aaa.2" configVersion="7c1433452991c6c25cd159012bae40c7a9c61cc9"/>
+		<Metadata name="Document.РеализацияТоваровУслуг.Template.ПФ_MXL_Реали" id="b6b1bd67-5e8f-4d19-968d-2423a7cfbe88" configVersion="ec70335b79da0d66dc45a209327b485ec6792ec2"/>
+		<Metadata name="Document.РеализацияТоваровУслуг.Template.ПФ_MXL_Реали.Template" id="b6b1bd67-5e8f-4d19-968d-2423a7cfbe88.0" configVersion="8df2aa5a56c97fa6c126a11292e99aa90c5b00b5"/>
+		<Metadata name="Document.РеализацияТоваровУслуг.Template.ПФ_MXL_РеализацияТоваровКутняков" id="4f38289d-2d31-474f-8e17-50b6f6d6afe1" configVersion="bad4e3c76df4f793a2a6c8a3ea7f31a0f14c5311"/>
+		<Metadata name="Document.РеализацияТоваровУслуг.Template.ПФ_MXL_РеализацияТоваровКутняков.Template" id="4f38289d-2d31-474f-8e17-50b6f6d6afe1.0" configVersion="42e1e0d6f2d7d327dc4c72c20d637e7c2c2551c2"/>
+		<Metadata name="Language.Русский" id="61b0b086-b83b-4176-b626-0229d77ef0e8" configVersion="bcf6401f98cd25bbd0b9c111af54093358f01749"/>
+		<Metadata name="Role.Расш1_ОсновнаяРоль" id="0ef1c6ba-6eb4-46fd-a4b2-60862fcffd26" configVersion="0f66f9df9d3f1d5fa4b8ea1bea4bd9d8fc719180"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
