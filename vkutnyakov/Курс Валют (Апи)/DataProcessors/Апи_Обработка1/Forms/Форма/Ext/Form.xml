@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcssch="http://v8.1c.ru/8.1/data-composition-system/schema" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1">
+		<Autofill>false</Autofill>
+	</AutoCommandBar>
+	<ChildItems>
+		<Button name="ПолучитьДанные" id="1">
+			<Type>UsualButton</Type>
+			<CommandName>Form.Command.ПолучитьДанные</CommandName>
+			<ExtendedTooltip name="ПолучитьДанныеРасширеннаяПодсказка" id="2"/>
+		</Button>
+		<Button name="ЗаписатьКурс" id="28">
+			<Type>UsualButton</Type>
+			<CommandName>Form.Command.ЗаписатьКурс</CommandName>
+			<ExtendedTooltip name="ЗаписатьКурсРасширеннаяПодсказка" id="29"/>
+		</Button>
+		<Table name="ВалютаИКурсы" id="3">
+			<AutoInsertNewRow>true</AutoInsertNewRow>
+			<EnableStartDrag>true</EnableStartDrag>
+			<EnableDrag>true</EnableDrag>
+			<DataPath>Объект.ВалютаИКурсы</DataPath>
+			<RowFilter xsi:nil="true"/>
+			<ContextMenu name="ВалютаИКурсыКонтекстноеМеню" id="4"/>
+			<AutoCommandBar name="ВалютаИКурсыКоманднаяПанель" id="5">
+				<Autofill>false</Autofill>
+			</AutoCommandBar>
+			<ExtendedTooltip name="ВалютаИКурсыРасширеннаяПодсказка" id="6"/>
+			<SearchStringAddition name="ВалютаИКурсыСтрокаПоиска" id="7">
+				<AdditionSource>
+					<Item>ВалютаИКурсы</Item>
+					<Type>SearchStringRepresentation</Type>
+				</AdditionSource>
+				<ContextMenu name="ВалютаИКурсыСтрокаПоискаКонтекстноеМеню" id="8"/>
+				<ExtendedTooltip name="ВалютаИКурсыСтрокаПоискаРасширеннаяПодсказка" id="9"/>
+			</SearchStringAddition>
+			<ViewStatusAddition name="ВалютаИКурсыСостояниеПросмотра" id="10">
+				<AdditionSource>
+					<Item>ВалютаИКурсы</Item>
+					<Type>ViewStatusRepresentation</Type>
+				</AdditionSource>
+				<ContextMenu name="ВалютаИКурсыСостояниеПросмотраКонтекстноеМеню" id="11"/>
+				<ExtendedTooltip name="ВалютаИКурсыСостояниеПросмотраРасширеннаяПодсказка" id="12"/>
+			</ViewStatusAddition>
+			<SearchControlAddition name="ВалютаИКурсыУправлениеПоиском" id="13">
+				<AdditionSource>
+					<Item>ВалютаИКурсы</Item>
+					<Type>SearchControl</Type>
+				</AdditionSource>
+				<ContextMenu name="ВалютаИКурсыУправлениеПоискомКонтекстноеМеню" id="14"/>
+				<ExtendedTooltip name="ВалютаИКурсыУправлениеПоискомРасширеннаяПодсказка" id="15"/>
+			</SearchControlAddition>
+			<ChildItems>
+				<InputField name="ВалютаИКурсыВалюта" id="19">
+					<DataPath>Объект.ВалютаИКурсы.Валюта</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="ВалютаИКурсыВалютаКонтекстноеМеню" id="20"/>
+					<ExtendedTooltip name="ВалютаИКурсыВалютаРасширеннаяПодсказка" id="21"/>
+				</InputField>
+				<InputField name="ВалютаИКурсыКурс" id="22">
+					<DataPath>Объект.ВалютаИКурсы.Курс</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="ВалютаИКурсыКурсКонтекстноеМеню" id="23"/>
+					<ExtendedTooltip name="ВалютаИКурсыКурсРасширеннаяПодсказка" id="24"/>
+				</InputField>
+				<InputField name="ВалютаИКурсыКратность" id="25">
+					<DataPath>Объект.ВалютаИКурсы.Кратность</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="ВалютаИКурсыКратностьКонтекстноеМеню" id="26"/>
+					<ExtendedTooltip name="ВалютаИКурсыКратностьРасширеннаяПодсказка" id="27"/>
+				</InputField>
+			</ChildItems>
+		</Table>
+	</ChildItems>
+	<Attributes>
+		<Attribute name="Объект" id="1">
+			<Type>
+				<v8:Type>cfg:DataProcessorObject.Апи_Обработка1</v8:Type>
+			</Type>
+			<MainAttribute>true</MainAttribute>
+		</Attribute>
+	</Attributes>
+	<Commands>
+		<Command name="ПолучитьДанные" id="1">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Получить данные</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Получить данные</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ПолучитьДанные</Action>
+		</Command>
+		<Command name="ЗаписатьКурс" id="2">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Записать курс</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Записать курс</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ЗаписатьКурс</Action>
+		</Command>
+	</Commands>
+</Form>

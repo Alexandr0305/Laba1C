@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Catalog.Валюты" id="ca1ebde5-b980-4239-9bbd-b63f5ce9232c" configVersion="81f0f43d9f3320f698b7aabb2cb8f05eedcf2d75"/>
+		<Metadata name="Configuration.АпиКурс" id="6c06f0df-4e5d-4ed5-b43d-89b34d88c1bb" configVersion="3909d5c2858f17de18465cdadd583e0e6b293c40"/>
+		<Metadata name="DataProcessor.Апи_Обработка1" id="33758964-64bf-43d5-89cc-587382ff3f5b" configVersion="2590a01a2cd33defbcc7a4760336c21877d70fe7">
+			<Metadata name="DataProcessor.Апи_Обработка1.TabularSection.ВалютаИКурсы.Attribute.Курс" id="2bb281f2-9a77-41c3-821f-428dbc5c5926"/>
+			<Metadata name="DataProcessor.Апи_Обработка1.TabularSection.ВалютаИКурсы.Attribute.Валюта" id="2c88a23b-80d4-4632-805e-c51b329ed839"/>
+			<Metadata name="DataProcessor.Апи_Обработка1.TabularSection.ВалютаИКурсы" id="576951aa-fe0f-4eed-9ed7-3ed947e88105"/>
+			<Metadata name="DataProcessor.Апи_Обработка1.TabularSection.ВалютаИКурсы.Attribute.Кратность" id="bb8298fe-0b85-44e5-b4b8-0473d6f7668f"/>
+		</Metadata>
+		<Metadata name="DataProcessor.Апи_Обработка1.Form.Форма" id="7e1b7f71-1dae-41b4-987d-5a2954d593f0" configVersion="eb9bdb697884f9643e30adee32f6ddbb97fabb06"/>
+		<Metadata name="DataProcessor.Апи_Обработка1.Form.Форма.Form" id="7e1b7f71-1dae-41b4-987d-5a2954d593f0.0" configVersion="732dc1ce28f0da573a03c5f9773295745b40c2f3"/>
+		<Metadata name="Language.Русский" id="687f59c9-9970-4afc-ba5e-161cb72c2bbf" configVersion="4156443c41695c89819eeba85d3f89d2ef3356eb"/>
+		<Metadata name="Role.Апи_ОсновнаяРоль" id="ffd34ff6-ad00-43b1-9dd3-650d4f07daa6" configVersion="5ff13e4d9adab5c3b636f8e38f17159f0b566d30"/>
+		<Metadata name="Subsystem.Апи_Подсистема1" id="4221eafe-521d-4751-9377-c26236b007ee" configVersion="f8303fdfa0a81d2192914702badcec419f9c11da"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
