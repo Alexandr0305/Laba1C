@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<Document uuid="2aae3d2a-49b9-4651-824b-9f4c22dedf77">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.Отпуск" category="Object">
+				<xr:TypeId>e85572c8-b7e1-47b0-9cf0-ec7969482e99</xr:TypeId>
+				<xr:ValueId>c2b9d112-4545-4832-b83a-7f07e77781d4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.Отпуск" category="Ref">
+				<xr:TypeId>900e7508-82bc-4b49-b1fb-3efe49832fa8</xr:TypeId>
+				<xr:ValueId>f12cfb4d-0326-4e2e-b9bd-dc5f8bcdeb93</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.Отпуск" category="Selection">
+				<xr:TypeId>18269476-904e-4347-80fd-a2dedfbfb35a</xr:TypeId>
+				<xr:ValueId>0c504367-c47d-477b-ad46-60c7fe66e4d2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.Отпуск" category="List">
+				<xr:TypeId>c6a1a39d-0275-4ce6-92ad-d72fd08ecf03</xr:TypeId>
+				<xr:ValueId>3a65b4a3-127a-4eda-a320-31ee1fbd5105</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.Отпуск" category="Manager">
+				<xr:TypeId>0bda7de2-1ee6-4d9a-b35a-1a10b346dbab</xr:TypeId>
+				<xr:ValueId>cacdfbd1-e2a8-4833-81cd-f48af431dbe9</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>Отпуск</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>8ad2326b-1707-4567-b03b-c186729074a1</ExtendedConfigurationObject>
+			<RegisterRecords>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ОтсутствиеСотрудникаАстон</xr:Item>
+			</RegisterRecords>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
