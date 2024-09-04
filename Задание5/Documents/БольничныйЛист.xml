@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<Document uuid="15d6e8b0-d68f-4e48-ac25-125f6f8f2135">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.БольничныйЛист" category="Object">
+				<xr:TypeId>2b768b01-8715-4e7a-8d73-298840d36879</xr:TypeId>
+				<xr:ValueId>b677eeaf-934c-47ee-8892-f20fe1221eac</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.БольничныйЛист" category="Ref">
+				<xr:TypeId>e542c39c-16d6-4f0c-9039-b8b256d296e1</xr:TypeId>
+				<xr:ValueId>36369874-9221-4def-b133-4aaaa913e95a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.БольничныйЛист" category="Selection">
+				<xr:TypeId>328dc68f-e795-45c2-af1e-af3f42497b83</xr:TypeId>
+				<xr:ValueId>3dbf4b19-c8b5-4fa2-9ef2-27d3c1afa47c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.БольничныйЛист" category="List">
+				<xr:TypeId>35dbfa29-e48c-475d-b4cf-0af74f8d9ee3</xr:TypeId>
+				<xr:ValueId>b6215735-edf5-4024-a40a-cde4c2acdff1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.БольничныйЛист" category="Manager">
+				<xr:TypeId>90a5d7ef-0047-4d33-9458-478ef9128a3b</xr:TypeId>
+				<xr:ValueId>423439d8-b066-4008-aca2-db4a8ba20c7f</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>БольничныйЛист</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>0cc942d0-7925-437e-88d3-ab7c24b32ede</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
