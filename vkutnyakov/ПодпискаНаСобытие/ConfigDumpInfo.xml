@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Catalog.Сотрудники" id="3251acbf-3f86-4ab5-af5f-97719db577b6" configVersion="51e8a0b40827b4e50dd063ddcc60803586971c83"/>
+		<Metadata name="CommonModule.Расш1_ПроведениеДокументов" id="a9b31d91-e734-4f75-be77-68d57b0d9624" configVersion="295bc1db8fab87407e4191476b037ee080320742"/>
+		<Metadata name="CommonModule.Расш1_ПроведениеДокументов.Module" id="a9b31d91-e734-4f75-be77-68d57b0d9624.0" configVersion="fc11a8d4b21ed92a58cb4d8480b1962979e7def1"/>
+		<Metadata name="Configuration.ПодпискаНаСобытие" id="f83a42cf-86f4-40bb-ab77-1d7fa1bea7e4" configVersion="1847767f3209fc146ab43be008f515a911811abd"/>
+		<Metadata name="Document.БольничныйЛист" id="bfb02dac-371d-4440-9fed-b9e99033162b" configVersion="960b54dfb36ce2b512022443a76cba9268385a94"/>
+		<Metadata name="Document.Отпуск" id="3e6697c9-b26e-4af3-bb59-16a85d19018c" configVersion="2645102a1b284812d333b308b5eeb9a3df31341c"/>
+		<Metadata name="Document.Увольнение" id="c93791b2-9684-425f-b499-6d12cc816c9d" configVersion="f7a08c36b3be86cfe2ec67b696f49357fb5d958c"/>
+		<Metadata name="EventSubscription.Расш1_ПодпискаДокументы" id="a2ffd71a-e804-465a-ab1e-1c32246cd92b" configVersion="b97a0e51163f98aff38a0a4f6aa4bd716216599c"/>
+		<Metadata name="InformationRegister.Расш1_ОтсутствиеСотрудникаАстон" id="14c3918f-a118-4427-9f2e-222a0ebc32dc" configVersion="56adbf3cdba54d92ca3b9dfd0a4f728106413aff">
+			<Metadata name="InformationRegister.Расш1_ОтсутствиеСотрудникаАстон.Resource.КоличествоДней" id="3a142f18-b56d-4fba-8f70-c2f8cf7827e4"/>
+			<Metadata name="InformationRegister.Расш1_ОтсутствиеСотрудникаАстон.Dimension.ДатаОкончанияОтсутствия" id="4b590515-f822-4318-9b31-02bce31a35c1"/>
+			<Metadata name="InformationRegister.Расш1_ОтсутствиеСотрудникаАстон.Dimension.ДатаНачалаОтсутствия" id="99990b32-343e-4fa3-a875-f49be7bbf150"/>
+			<Metadata name="InformationRegister.Расш1_ОтсутствиеСотрудникаАстон.Dimension.Сотрудник" id="fe459444-bc9e-4771-9f04-79dda4d77ace"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="0ff55f8b-d40d-4eee-a23c-4004512d1db2" configVersion="6c05a862de46bace7cd9bd8e5d429db8ddd749bb"/>
+		<Metadata name="Role.Расш1_ОсновнаяРоль" id="6f66a3fc-2b67-46c5-8d8b-db1b42a346de" configVersion="337301b2ec5f58e453b41aa08c7fe650e779cbd7"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
