@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Catalog.Сотрудники" id="2f1ac6d1-e46c-41a0-8aec-77c7f54a42fe" configVersion="568cd2199cf6943d36db37a3b48e61b2f565993b"/>
+		<Metadata name="CommonModule.ШСВ_ДнейОтсутствияРаботника" id="85e3c38c-8f10-40cf-b5a7-a322390b9310" configVersion="0ea2498fcdcc69063cded81603903efbd9ce514e"/>
+		<Metadata name="CommonModule.ШСВ_ДнейОтсутствияРаботника.Module" id="85e3c38c-8f10-40cf-b5a7-a322390b9310.0" configVersion="1a8fbe6a257bf2b3fa707effa6f9d135af4e3f26"/>
+		<Metadata name="Configuration.Задание5" id="74a9a102-f762-4718-8e9c-9be21b35b6d8" configVersion="c5c858ad14a67e33220ec3adfa465ea9d88233b7"/>
+		<Metadata name="Document.БольничныйЛист" id="15d6e8b0-d68f-4e48-ac25-125f6f8f2135" configVersion="beb29fd13490edaa9517ca01e8fcef651e206665"/>
+		<Metadata name="Document.Отпуск" id="797af165-35d5-4d3a-9fff-3ddc57286a9b" configVersion="89de969a23233e21dbe1b77c00ade88624b5c0fd"/>
+		<Metadata name="Document.Увольнение" id="412c3dde-c523-4633-8142-cb31567dbef2" configVersion="f67a465d593f7964fe7b1e62647b3db0ecf45f36"/>
+		<Metadata name="EventSubscription.ШСВ_ПодпискаНаСобытиеОтсутствиеРаботника" id="c7b4b142-2769-4081-8946-89c8241cdbd1" configVersion="1bc70b0d9215a1d9eb5eb5c4a25b9f8b5b566d57"/>
+		<Metadata name="InformationRegister.ШСВ_ОтсутствиеСотрудникаАстон" id="c6661f6d-7e1e-468d-865f-f0b83ece848f" configVersion="eca862b6d261b132d376987c492b6f209acefcc5">
+			<Metadata name="InformationRegister.ШСВ_ОтсутствиеСотрудникаАстон.Resource.КоличествоДней" id="28a1aa48-462f-4068-a64e-dd95601206a1"/>
+			<Metadata name="InformationRegister.ШСВ_ОтсутствиеСотрудникаАстон.Dimension.ДатаНачалаОтсутствия" id="7abfea37-20e8-48a1-8603-da8d22973284"/>
+			<Metadata name="InformationRegister.ШСВ_ОтсутствиеСотрудникаАстон.Dimension.Сотрудник" id="92e090e7-721c-4096-b501-f31a2ef50d8d"/>
+			<Metadata name="InformationRegister.ШСВ_ОтсутствиеСотрудникаАстон.Dimension.ДатаОкончанияОтсутствия" id="931d5c38-4361-4ab8-b092-a177174f8437"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="fdc5c5b5-0f18-4442-b167-55221bc5c448" configVersion="07b5f0051b989bb8745b7a36c969380cac9ea719"/>
+		<Metadata name="Role.ШСВ_ОсновнаяРоль" id="728b4853-e02b-4b1d-9c7a-06c9054fe40a" configVersion="a2419e9b806830d0731f89dc3b3247a1b9d764a7"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
