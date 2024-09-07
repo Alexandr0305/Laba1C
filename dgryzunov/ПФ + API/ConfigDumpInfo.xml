@@ -15,7 +15,7 @@
 		<Metadata name="Configuration.ОсновноеРасширение" id="768d2f38-d752-4a90-a5a5-3509f4a215af" configVersion="ecc28da4e0be921ef2da1169222311e519cbd269"/>
 		<Metadata name="DataProcessor.API" id="61c21ef4-6515-4beb-896a-fba93c5c8858" configVersion="dbc28769431c7378b3a379d1b64fda6c07a17c8f"/>
 		<Metadata name="DataProcessor.API.Form.Форма" id="acb1335f-72c4-40c7-b2ea-6c6eae5e2454" configVersion="5f632cee3fc2b0b1ea4e7d633f884af6eb6d39d3"/>
-		<Metadata name="DataProcessor.API.Form.Форма.Form" id="acb1335f-72c4-40c7-b2ea-6c6eae5e2454.0" configVersion="cdece1e82fdfb03bf43f1e688b18c743794157dc"/>
+		<Metadata name="DataProcessor.API.Form.Форма.Form" id="acb1335f-72c4-40c7-b2ea-6c6eae5e2454.0" configVersion="9f2971db5c860f330ab70ae01ee5016027be08e9"/>
 		<Metadata name="DataProcessor.ОР_ОбработкаДляКоманднойРаботы" id="b4a12013-c6ae-44e5-ae5a-98b77ca5fd75" configVersion="998361fa3d66e94c0b8f10a06faf4e30dfb2336f"/>
 		<Metadata name="DataProcessor.ОР_ОбработкаДляКоманднойРаботы.Form.Форма" id="2b84f587-9a2a-43a6-b931-ab260111f67c" configVersion="39c164e523249eff0dfbd191b080b8e71423c157"/>
 		<Metadata name="DataProcessor.ОР_ОбработкаДляКоманднойРаботы.Form.Форма.Form" id="2b84f587-9a2a-43a6-b931-ab260111f67c.0" configVersion="48f373796ebe47c1309197c3fe774b31d776a527"/>
