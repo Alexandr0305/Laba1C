@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Catalog.Сотрудники" id="6ab9ec79-7882-4f01-9d1e-5975e1983519" configVersion="1f80f79e87d382ecd0a142bc0afa69afea36d3ee"/>
+		<Metadata name="Catalog.ФизическиеЛица" id="8c7f6bfd-5914-4847-86fd-f5ec41f48f76" configVersion="0122c8aca184b88313b8937785e039a140eb9f02"/>
+		<Metadata name="CommonModule.ОР_РаботаСРегистромОтсутствиеСотрудникаАстон" id="6fa40300-4fee-4256-b254-04ab7427d491" configVersion="56309034886e1e579cfa972059e8b0e73434fa01"/>
+		<Metadata name="CommonModule.ОР_РаботаСРегистромОтсутствиеСотрудникаАстон.Module" id="6fa40300-4fee-4256-b254-04ab7427d491.0" configVersion="9245adc8c1e0380b84ce1ecf5dcbdca5a785d7e1"/>
+		<Metadata name="Configuration.ОсновноеРасширение" id="f185a8aa-2ee1-4677-b885-427ce3357ec9" configVersion="51215a9a0d3fb4c3663b621e4c889116a13388fd"/>
+		<Metadata name="Document.БольничныйЛист" id="fb257b29-26a3-43f6-952a-173ccbc5da63" configVersion="44bd32cb87b3e7c4cc604b2582b0d8a2efb2e87d">
+			<Metadata name="Document.БольничныйЛист.Attribute.ДатаНачала" id="8cc9798b-25a4-4b8b-beba-b69adab173a1"/>
+			<Metadata name="Document.БольничныйЛист.Attribute.Сотрудник" id="96c03ee7-63a5-491c-a9cd-cbb9a35b9b5c"/>
+			<Metadata name="Document.БольничныйЛист.Attribute.ДатаОкончания" id="b3f2d483-ef1d-4ab9-9046-dfd0e09739dc"/>
+		</Metadata>
+		<Metadata name="Document.Отпуск" id="086fca53-8649-483e-a363-04cc5d96468a" configVersion="6f45a46844d7314c2623c005ad28c7645e9cc34c">
+			<Metadata name="Document.Отпуск.Attribute.ДатаНачалаОсновногоОтпуска" id="0498a689-6e7e-46ad-81fd-755c39065ed8"/>
+			<Metadata name="Document.Отпуск.Attribute.ДатаОкончанияОсновногоОтпуска" id="6294b704-7408-4700-9f16-b3a498fca628"/>
+			<Metadata name="Document.Отпуск.Attribute.Сотрудник" id="dab41422-7acb-4a45-babd-5dd512f757d4"/>
+		</Metadata>
+		<Metadata name="Document.Увольнение" id="ed7726cf-63df-4795-9535-ad56c238ac5d" configVersion="cb923fde3066a068409a86e6b65065ff99b99974">
+			<Metadata name="Document.Увольнение.Attribute.ДатаУвольнения" id="23fd3f73-40a9-43fe-83f9-10cc71c93fae"/>
+			<Metadata name="Document.Увольнение.Attribute.Сотрудник" id="5a1019c9-6fb5-4122-8e88-3be7105a15f4"/>
+		</Metadata>
+		<Metadata name="EventSubscription.ОР_ПодпискаНаСобытиеОтсутствиеСотрудника" id="39e596f5-e764-423e-9043-8598f0043f78" configVersion="10eaa5d052b72df553223a146a4723827604d276"/>
+		<Metadata name="InformationRegister.ОтсутствиеСотрудникаАстон" id="aeac9a1d-92aa-4b85-99e7-2c4bfae70bb1" configVersion="d5045b927b42e8becc6c18c15f8d26686602ca82">
+			<Metadata name="InformationRegister.ОтсутствиеСотрудникаАстон.Dimension.Сотрудник" id="4e8a0e82-c0e4-4673-9083-ee3983c86556"/>
+			<Metadata name="InformationRegister.ОтсутствиеСотрудникаАстон.Resource.КоличествоДней" id="53b41464-b28b-4101-aeb8-4c2ad4dcffab"/>
+			<Metadata name="InformationRegister.ОтсутствиеСотрудникаАстон.Dimension.ДатаНачалаОтсутствия" id="91171ddf-414d-42e8-8d76-f56b5f1b347d"/>
+			<Metadata name="InformationRegister.ОтсутствиеСотрудникаАстон.Dimension.ДатаОкончанияОтсутствия" id="c24f9878-d768-442a-b79d-28e79758996b"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="f5e42b36-0924-4553-9b6a-6d201889a92e" configVersion="56ce6915be8ea3586d2df02d3f9080b2ca7d2b13"/>
+		<Metadata name="Role.ОР_ОсновнаяРоль" id="7bb0e8b4-246f-49a7-9368-a8d535a0c8c5" configVersion="1482036f4be677fa25537afad4d438f7681b6bee"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
