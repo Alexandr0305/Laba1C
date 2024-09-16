@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<Document uuid="2e417217-7c4a-46ac-a8a8-a633cb6733e0">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПриобретениеТоваровУслуг" category="Object">
+				<xr:TypeId>a87a0646-b740-4ed0-b43d-9ba724579222</xr:TypeId>
+				<xr:ValueId>cf7e8c3f-f1cb-4f2f-9271-8fccca3c3d67</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПриобретениеТоваровУслуг" category="Ref">
+				<xr:TypeId>34fecd61-715d-424e-a512-ec21d32a8c3d</xr:TypeId>
+				<xr:ValueId>4953a80c-18c3-4c64-9e2e-4e3b88ddc038</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПриобретениеТоваровУслуг" category="Selection">
+				<xr:TypeId>10a03568-2992-40c4-8354-c9699a734ee9</xr:TypeId>
+				<xr:ValueId>2e1f32f9-3650-4f55-aa99-cdab55bb4acf</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПриобретениеТоваровУслуг" category="List">
+				<xr:TypeId>72564938-1cde-4ebb-82bb-aca688b99f8f</xr:TypeId>
+				<xr:ValueId>d092d57e-8ecd-448c-9b05-50c083750cdc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПриобретениеТоваровУслуг" category="Manager">
+				<xr:TypeId>ebad89f3-35d6-490a-a452-e9d7aadd80b6</xr:TypeId>
+				<xr:ValueId>a12e26e0-5267-4403-828d-64a50ae0fc7e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПриобретениеТоваровУслуг</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>5e0d9dd9-464c-4fa3-984a-2a2da8517f38</ExtendedConfigurationObject>
+			<RegisterRecords>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Расш1_ОстаткиНоменклатуры</xr:Item>
+			</RegisterRecords>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
