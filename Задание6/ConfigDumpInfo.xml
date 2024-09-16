@@ -41,13 +41,15 @@
 		<Metadata name="CommonPicture.СерииНоменклатурыКолонкаСтатусов" id="c1e6a131-485e-48b2-83e9-634e42acdb5b" configVersion="5cf4d18d661affa894f99344f16a525fabe1f693"/>
 		<Metadata name="CommonPicture.СостоянияСтрок" id="af4f60ff-8878-4416-a3f4-92b8f7eda4c2" configVersion="352f54a5b135e6d67070328c618e748a51745c66"/>
 		<Metadata name="CommonPicture.СтатусыУказанияСерий" id="aab6881f-1853-403b-9859-ebe94dec76ca" configVersion="e5e4812767c32fe000a20cd557957b71b12bc60f"/>
-		<Metadata name="Configuration.СтараяНоваяМетодика" id="e7f01e0c-88f5-4920-80db-4f238a976122" configVersion="47ba6fd5eafce2fd556e7158ed43373e3ec94413"/>
+		<Metadata name="Configuration.СтараяНоваяМетодика" id="e7f01e0c-88f5-4920-80db-4f238a976122" configVersion="f42099742b80a722967842eec9d53c6647daec87"/>
 		<Metadata name="DefinedType.Артикул" id="231beb2f-1f6b-47da-a838-9f5eef6e050e" configVersion="f2264e2a62e03c7f84595293b9569e1ee901dc95"/>
 		<Metadata name="DefinedType.ДенежнаяСуммаЛюбогоЗнака" id="e38c1d4e-9b17-4fb3-a50d-618cb76c672e" configVersion="f6d1dc3320601eaa85f63dd1029e9f4c0aee4496"/>
 		<Metadata name="DefinedType.ДенежнаяСуммаНеотрицательная" id="fc43919b-c640-462d-b1e6-e9b0c8be0ce2" configVersion="34f9e3907d889765f262ad537e728530da2ee9b2"/>
 		<Metadata name="DefinedType.Цена" id="3bbd7f2b-29a3-4019-9294-d435beb1e8a4" configVersion="9fae090f5236f8f89d16eaf8ffc2977ba3013b8b"/>
+		<Metadata name="Document.ПоступлениеТоваровНаСклад" id="58ae536d-4c5d-4cdc-a6ed-b6b389986f98" configVersion="b8cc49ad120e4fbedf769254a5c036e5a73060c6"/>
+		<Metadata name="Document.ПоступлениеТоваровНаСклад.ObjectModule" id="58ae536d-4c5d-4cdc-a6ed-b6b389986f98.0" configVersion="2b03478fc6f5ac743aa116e1f7d83420c6cc855f"/>
 		<Metadata name="Document.ПриходныйОрдерНаТовары" id="b9e5954e-0c94-4eb0-8da2-be915233092c" configVersion="143094991621725d5eb9a07bb843bed67c621a08"/>
-		<Metadata name="Document.ПриходныйОрдерНаТовары.ObjectModule" id="b9e5954e-0c94-4eb0-8da2-be915233092c.0" configVersion="bd285d98d46c7ee088e1711c58b42062a0e8d963"/>
+		<Metadata name="Document.ПриходныйОрдерНаТовары.ObjectModule" id="b9e5954e-0c94-4eb0-8da2-be915233092c.0" configVersion="ef5b900d8c5f52c1aa43b6091064049355acba8e"/>
 		<Metadata name="Document.РеализацияТоваровУслуг" id="89e324c9-5604-415d-8e19-48a06d51733d" configVersion="e7d336bf1e9a79cf9bc486c082ac7ecf21f6ae69">
 			<Metadata name="Document.РеализацияТоваровУслуг.Attribute.АдресДоставки" id="037fe3ba-bb8e-4929-a636-7f8922b2faa6"/>
 			<Metadata name="Document.РеализацияТоваровУслуг.Attribute.Организация" id="06842a3f-089e-4f6e-a417-6dfa86d0bb87"/>
