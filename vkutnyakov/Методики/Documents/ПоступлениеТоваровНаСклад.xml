@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<Document uuid="bf9a2eee-ef37-4b8e-8b51-fb65322d3a42">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПоступлениеТоваровНаСклад" category="Object">
+				<xr:TypeId>99affc25-3127-47a5-8207-7f633876236d</xr:TypeId>
+				<xr:ValueId>403b9b26-053e-46c7-93ba-4c8950326606</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПоступлениеТоваровНаСклад" category="Ref">
+				<xr:TypeId>fb585b96-3872-4f95-ba53-f85805494793</xr:TypeId>
+				<xr:ValueId>ab4e1d36-f6f1-4b26-aab2-375e1f692d4f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПоступлениеТоваровНаСклад" category="Selection">
+				<xr:TypeId>9bfb9439-a366-45cf-b345-b7ba0753b4d4</xr:TypeId>
+				<xr:ValueId>5137f136-3825-4793-8760-c9b1a1709344</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПоступлениеТоваровНаСклад" category="List">
+				<xr:TypeId>45044ece-1d9d-467f-b96c-77fd605d2f87</xr:TypeId>
+				<xr:ValueId>f2b54ff3-a694-4207-b7fb-4c4e5416b86c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПоступлениеТоваровНаСклад" category="Manager">
+				<xr:TypeId>29327c5e-7c03-4784-b770-0ec8edd1d100</xr:TypeId>
+				<xr:ValueId>f7a7a228-cdf7-402c-8591-19c91d152eb8</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПоступлениеТоваровНаСклад</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>cf382c90-63f7-4150-9853-4c1d98bcb146</ExtendedConfigurationObject>
+			<RegisterRecords>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.НСМ1_ОстаткиНоменклатуры</xr:Item>
+			</RegisterRecords>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="c974aa8b-01ad-4bdb-a088-cc7ab516d5a7">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Склад</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>d4a8f97d-da15-4db9-a4a5-9a246b35729b</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:CatalogRef.Склады</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="d514604f-2d02-4899-8898-0ef5d29ef6e5">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Организация</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>db59aeed-c52b-4923-8047-b48864a8bbf0</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:CatalogRef.Организации</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<TabularSection uuid="adbde203-ac53-4f44-b834-bc51828e8a6a">
+				<InternalInfo>
+					<xr:GeneratedType name="DocumentTabularSection.ПоступлениеТоваровНаСклад.Товары" category="TabularSection">
+						<xr:TypeId>a70495a7-237d-434e-b255-c4dcaa467a7a</xr:TypeId>
+						<xr:ValueId>a4d25cc7-5e59-4321-a445-462fc166eae9</xr:ValueId>
+					</xr:GeneratedType>
+					<xr:GeneratedType name="DocumentTabularSectionRow.ПоступлениеТоваровНаСклад.Товары" category="TabularSectionRow">
+						<xr:TypeId>1dd77273-91b6-4b7b-b925-94104cd2efa2</xr:TypeId>
+						<xr:ValueId>af03e069-5f0a-4b68-b57b-fdd4ee563cd3</xr:ValueId>
+					</xr:GeneratedType>
+				</InternalInfo>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Товары</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>f2248eef-0526-4ce1-824e-b099cdd76b4f</ExtendedConfigurationObject>
+				</Properties>
+				<ChildObjects/>
+			</TabularSection>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>
